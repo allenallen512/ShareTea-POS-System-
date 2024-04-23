@@ -2,6 +2,8 @@ ShareTea POS System made during Fall 2023.
 
 Cashier and Manager view implemented to live update databases. Weather API, Google Translate API, and OAuth supported. 
 
+https://shareteamock.vercel.app/
+
 Uses React, Vite. 
 
 
